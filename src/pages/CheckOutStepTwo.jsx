@@ -75,7 +75,7 @@ const CheckOutStepTwo = ({ history, location }) => {
                 className="summary_info_label"
                 data-test="shipping-info-label"
               >
-                Shipping Information:
+                Shiping Information:
               </div>
               <div
                 className="summary_value_label"

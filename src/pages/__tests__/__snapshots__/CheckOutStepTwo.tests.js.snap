@@ -364,7 +364,7 @@ exports[`CheckOutStepTwo should give the incorrect order total when we are logge
               class="summary_info_label"
               data-test="shipping-info-label"
             >
-              Shipping Information:
+              Shiping Information:
             </div>
             <div
               class="summary_value_label"
@@ -844,7 +844,7 @@ exports[`CheckOutStepTwo should render correctly items 1`] = `
               class="summary_info_label"
               data-test="shipping-info-label"
             >
-              Shipping Information:
+              Shiping Information:
             </div>
             <div
               class="summary_value_label"
@@ -1182,7 +1182,7 @@ exports[`CheckOutStepTwo should render correctly without any items 1`] = `
               class="summary_info_label"
               data-test="shipping-info-label"
             >
-              Shipping Information:
+              Shiping Information:
             </div>
             <div
               class="summary_value_label"
