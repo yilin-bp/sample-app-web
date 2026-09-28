@@ -1,4 +1,4 @@
-# What iss this codebase?
+# What is this codebase?
 This is the Sauce Labs Sample Application which is designed to be used from desktop web browsers
 
 ![sample-app-web workflow](https://github.com/saucelabs/sample-app-web/actions/workflows/sample-app-web.yml/badge.svg)
